@@ -10,7 +10,7 @@
 * Detail Movie
 
 ## Capture
-<p><img src="![f](https://user-images.githubusercontent.com/107177632/204766652-b40e58bd-e80e-44d8-9538-b05765ad83c0.PNG)"></p>
+![f](https://user-images.githubusercontent.com/107177632/204766652-b40e58bd-e80e-44d8-9538-b05765ad83c0.PNG)
 
 ### Tech Stack
 * HTML
